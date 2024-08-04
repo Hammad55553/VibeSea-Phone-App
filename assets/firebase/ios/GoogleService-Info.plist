@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>621558975147-a81b03iu013pt4dhej2e0bvnbbmerid8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.621558975147-a81b03iu013pt4dhej2e0bvnbbmerid8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXIu4axPc7jBKzh2JLHk7_wzxedD4L-Qs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>621558975147</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vibesea.vibesea</string>
+	<key>PROJECT_ID</key>
+	<string>vibesea-d683e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vibesea-d683e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:621558975147:ios:c9d1b1bf6199be39f3c5ee</string>
+</dict>
+</plist>
